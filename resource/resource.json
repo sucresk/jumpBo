@@ -1,0 +1,34 @@
+{
+"resources":
+	[
+		{"name":"bgImage","type":"image","url":"assets/bg.jpg"},
+		{"name":"egretIcon","type":"image","url":"assets/egret_icon.png"},
+                {"name":"description","type":"json","url":"config/description.json"},   
+                {"name":"bg","type":"image","url":"assets/bg.png"},
+                {"name":"number1","type":"image","url":"assets/1.png"},
+                {"name":"number2","type":"image","url":"assets/2.png"},
+                {"name":"number3","type":"image","url":"assets/3.png"},
+                {"name":"number4","type":"image","url":"assets/4.png"},
+                {"name":"number5","type":"image","url":"assets/5.png"},
+                {"name":"bed0","type":"image","url":"assets/bed0.png"},
+                {"name":"bed1","type":"image","url":"assets/bed1.png"},
+                {"name":"bed2","type":"image","url":"assets/bed2.png"},
+                {"name":"bedHalf","type":"image","url":"assets/bedHalf.png"},
+                {"name":"bedIn","type":"image","url":"assets/bedIn.png"},
+                {"name":"heroAct0","type":"image","url":"assets/heroAct0.png"},
+                {"name":"heroAct1","type":"image","url":"assets/heroAct1.png"},
+                {"name":"heroAct2","type":"image","url":"assets/heroAct2.png"},
+                {"name":"heroAct3","type":"image","url":"assets/heroAct3.png"},
+                {"name":"heroDown","type":"image","url":"assets/heroDown.png"},
+                {"name":"heroPre","type":"image","url":"assets/heroPre.png"},
+                {"name":"heroEnd","type":"image","url":"assets/heroEnd.png"},
+                {"name":"startPage","type":"image","url":"assets/startPage.png"},
+                {"name":"overPage","type":"image","url":"assets/overPage.png"},
+                {"name":"heroUp","type":"image","url":"assets/heroUp.png"}
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"overPage,startPage,egretIcon,bg,number1,number2,number3,number4,number5,bed0,bed1,bed2,bedHalf,bedIn,heroAct0,heroAct1,heroAct2,heroAct3,heroDown,heroUp,heroPre,heroEnd"}
+	]
+}
